@@ -1,0 +1,522 @@
+# NEET Physics — Super-Compact Notes + Memory Tricks
+
+## How to use these notes
+- Think of this as a 6–7 page cheat sheet: it’s not full derivations, but high‑yield concepts, formula clusters, and memory tricks.
+- Use the bold terms as your “must-know” checklist.
+- Formula = 50% of Physics marks; the rest is concepts and which formula to apply. High‑weightage units: Mechanics, Electrodynamics, Optics, Modern Physics, Thermodynamics & Waves, per Vedantu/PW/BYJU’S analyses. 【turn0search8】【turn0search9】【turn0search7】
+
+---
+
+## 1) Units, Dimensions & Errors
+
+### SI base units (must know)
+- Length: metre (m); Mass: kilogram (kg); Time: second (s); Current: ampere (A); Temperature: kelvin (K); Amount: mole (mol); Luminous intensity: candela (cd).
+
+### Dimension trick: [M L T A]
+-几乎所有物理量都能拆成质量[M]、长度[L]、时间[T]、电流[A]的组合。
+- Trick: Think every formula reduces to some combination of M, L, T, A.
+
+### Common dimensions (quick list)
+- Velocity: [L T⁻¹]
+- Acceleration: [L T⁻²]
+- Force: [M L T⁻²]
+- Work/Energy: [M L² T⁻²]
+- Power: [M L² T⁻³]
+- Pressure: [M L⁻¹ T⁻²]
+- Charge: [A T]
+- Potential/Voltage: [M L² T⁻³ A⁻¹]
+- Capacitance: [M⁻¹ L⁻² T⁴ A²]
+- Resistance: [M L² T⁻³ A⁻²]
+
+### Error analysis
+- Absolute error: Δa = |aᵢ – ā|.
+- Relative error: Δa/ā.
+- Percentage error: (Δa/ā) × 100.
+- Propagation:
+  - Sum/difference: add absolute errors.
+  - Product/quotient/power: add relative (fractional) errors.
+
+---
+
+## 2) Kinematics (1D & 2D)
+
+### Key equations for constant acceleration (1D)
+- v = u + at
+- s = ut + ½at²
+- v² = u² + 2as
+- Trick: “Very Ugly Astronauts” (v = u + at), “Some United Astronauts” (s = ut + ½at²), “Very Very Ugly Astronauts” (v² = u² + 2as).
+
+### Projectile motion (level ground)
+- Time of flight: T = 2u sinθ / g
+- Max height: H = u² sin²θ / (2g)
+- Range: R = u² sin2θ / g
+- Max range at θ = 45° (sin2θ = 1).
+- At highest point: vertical velocity = 0; acceleration = g (downward); horizontal velocity constant = u cosθ.
+
+### Relative velocity
+- vAB = vA – vB (vector subtraction). If they’re in opposite directions, add speeds.
+
+---
+
+## 3) Laws of Motion & Friction
+
+### Newton’s laws (memory: “1–2–3 rule”)
+- 1st: Law of inertia; no net force ⇒ constant velocity (a = 0).
+- 2nd: Fnet = ma.
+- 3rd: Every action has equal & opposite reaction; forces act on different bodies.
+
+### Friction
+- Static friction (fs) ≤ μs N; kinetic friction fk = μk N.
+- μs > μk generally.
+- Angle of friction: tan λ = μ.
+- Angle of repose: tan θ = μ (block just starts to slide).
+
+### Tension & pulleys
+- Light & smooth pulley: tension same on both sides.
+- Acceleration of system: a = (m₂ – m₁)g / (m₁ + m₂) (Atwood machine).
+
+---
+
+## 4) Work, Energy & Power
+
+### Work–energy theorem
+- Wnet = ΔKE = KEfinal – KEinitial.
+- Conservative forces: gravity, spring electrostatics (path independent); non‑conservative: friction.
+- Potential energy change: ΔU = –Wconservative.
+
+### Key energies
+- KE: ½mv².
+- PE (gravity near surface): mgh.
+- PE (spring): ½kx².
+
+### Power
+- Average: P = W/t.
+- Instantaneous: P = F·v = Fv cosθ.
+
+### Collisions
+- Momentum conserved in all (if no external force).
+- Elastic: KE conserved; coefficient of restitution e = 1.
+- Inelastic: KE not conserved; e < 1.
+
+---
+
+## 5) Rotational Motion
+
+### Moment of inertia (I)
+- I = Σmr².
+- Standard I (learn these; many questions pick from here):
+  - Ring about centre: MR²
+  - Ring about diameter: ½MR²
+  - Disc about centre: ½MR²
+  - Solid sphere: ⅖MR²
+  - Hollow spherical shell: ⅔MR²
+  - Rod about centre: 1/12 ML²
+  - Rod about end: ⅓ML²
+
+### Parallel & perpendicular axes
+- Parallel axis: I = Icm + Md².
+- Perpendicular axis (lamina only): Iz = Ix + Iy.
+
+### Rolling without slipping
+- v = ωR.
+- a = αR.
+- Total KE = translational + rotational = ½mv² + ½Iω².
+
+### Angular momentum & torque
+- L = Iω; τ = dL/dt.
+- τ = rF sinθ (direction via right‑hand rule).
+- Conservation of L: τnet = 0 ⇒ L constant.
+
+---
+
+## 6) Gravitation
+
+### Newton’s law
+- F = Gm₁m₂ / r².
+- Gravitational potential: V = –GM/r (negative).
+- Potential energy: U = –GMm/r.
+
+### Orbital speed & escape
+- Orbital speed near planet surface: v = √(GM/R) ≈ √(gR).
+- Escape velocity: ve = √(2GM/R) = √2 × orbital speed.
+- Trick: “Escape = root two × orbital.”
+
+### Kepler’s laws
+- 1st: Orbits are elliptical; Sun at one focus.
+- 2nd: Equal areas in equal times (r²ω = constant ⇒ sweeps equal area).
+- 3rd: T² ∝ r³ (or T²/r³ = constant).
+
+---
+
+## 7) Properties of Matter & Fluids
+
+### Elasticity
+- Young’s modulus: Y = stress/strain = (F/A) / (ΔL/L).
+- Bulk modulus: B = –ΔP / (ΔV/V).
+- Modulus of rigidity (shear): η = shear stress / shear strain.
+
+### Viscosity
+- Poiseuille’s formula: Q = πPr⁴ / (8ηl).
+- Stoke’s law (sphere): F = 6πηrv.
+
+### Surface tension
+- Excess pressure inside:
+  - Liquid drop: 2S/R.
+  - Bubble in air: 4S/R.
+- Capillary rise: h = 2S cosθ / (rρg).
+
+### Bernoulli’s principle
+- P + ½ρv² + ρgh = constant (along streamline).
+
+---
+
+## 8) Thermodynamics & Kinetic Theory
+
+### Laws of thermodynamics
+- Zeroth: Temperature equality (thermal equilibrium).
+- First: ΔQ = ΔU + ΔW (energy conservation).
+- Second: Heat flows from hot to cold; entropy of isolated system never decreases; Kelvin‑Planck/Clausius statements.
+- Third: At T = 0 K, entropy → constant (minimum).
+
+### Processes (ideal gas)
+- Isobaric: P constant; W = PΔV.
+- Isochoric: V constant; W = 0.
+- Isothermal: T constant; ΔU = 0; Q = W.
+- Adiabatic: Q = 0; PVγ = constant; TVγ⁻¹ = constant.
+
+### Specific heats
+- Cp – Cv = R (molar).
+- γ = Cp / Cv.
+- For monoatomic ideal gas: Cv = 3R/2; Cp = 5R/2; γ = 5/3 ≈ 1.67.
+
+### Kinetic theory of gases
+- Average KE: 3/2 kT per molecule.
+- RMS speed: vrms = √(3RT/M).
+- Pressure: P = ⅓ (mn/V) vrms² = ⅓ρvrms².
+
+---
+
+## 9) Oscillations & Waves
+
+### SHM basics
+- a = –ω²x; F = –kx.
+- x(t) = A cos(ωt + φ); v = –Aω sin(ωt + φ); a = –Aω² cos(ωt + φ).
+- T = 2π/ω; f = 1/T.
+- Energy (total) = ½kA² (constant).
+
+### Simple pendulum
+- T = 2π √(L/g).
+- For small θ; independent of mass.
+
+### Spring–mass system
+- T = 2π √(m/k).
+- Parallel springs: keq = k₁ + k₂.
+- Series springs: 1/keq = 1/k₁ + 1/k₂.
+
+### Wave (progressing)
+- v = fλ.
+- y = A sin(kx – ωt); k = 2π/λ; ω = 2πf.
+
+### Sound
+- In gases: v = √(γP/ρ) = √(γRT/M).
+- Doppler: f′ = f (v ± vo) / (v ∓ vs); signs depend on direction (towards vs away).
+
+### Beats
+- Beat frequency = |f₁ – f₂|.
+- When two close frequencies sound together, periodic loud/soft.
+
+### Standing waves (strings & pipes)
+- String fixed both ends: L = n(λ/2); harmonics: f, 2f, 3f, ...
+- Open pipe: L = n(λ/2); all harmonics.
+- Closed pipe: L = (2n–1)λ/4; odd harmonics only.
+
+---
+
+## 10) Electrostatics
+
+### Coulomb’s law
+- F = k q₁q₂ / r²; k = 1/(4πε₀).
+
+### Electric field & potential
+- E = F/q; V = W/q.
+- For point charge: V = kQ/r; E = kQ/r².
+- Relation: E = –dV/dx.
+
+### Dipole
+- Dipole moment: p = q × 2a (vector from –q to +q).
+- On axial line: E = 2kp/r³.
+- On equatorial line: E = kp/r³.
+- Torque in uniform E: τ = p × E; PE = –p·E = –pE cosθ.
+
+### Gauss’s law
+- Φ = ∮E·dA = Qenclosed/ε₀.
+- Useful for: infinite line, infinite plane, thin shell, solid sphere (field inside/outside).
+
+### Capacitance
+- Single plate: C = Q/V; parallel plate: C = ε₀A/d.
+- Dielectric: C′ = κC₀.
+- Energy: U = ½CV² = ½QV = Q²/(2C).
+- Series: 1/Ceq = 1/C₁ + 1/C₂; parallel: Ceq = C₁ + C₂.
+
+---
+
+## 11) Current Electricity
+
+### Ohm’s law
+- V = IR; R = ρL/A.
+
+### Kirchhoff’s laws
+- Junction: ΣI = 0.
+- Loop: ΣV = 0 (including EMFs and IR drops).
+
+### Cells & combinations
+- Emf (E); internal resistance (r).
+- Terminal voltage: V = E – Ir (discharging).
+- Series: Eeq = E₁ + E₂; req = r₁ + r₂.
+- Parallel: for identical cells E₁ = E₂ = E: Eeq = E; req = r/n.
+
+### Wheatstone bridge
+- Balance condition: P/Q = R/S ⇒ no current through galvanometer.
+
+### Meter bridge & potentiometer
+- Meter bridge: balanced when R/S = l₁/l₂.
+- Potentiometer measures emf/unknown potential; null deflection (no current drawn at balance).
+
+### Heating effect
+- H = I²Rt; Power: P = I²R = V²/R = VI.
+- Trick: In series, use P = I²R; in parallel, use P = V²/R.
+
+---
+
+## 12) Magnetism & EMI
+
+### Biot–Savart & Ampere
+- Straight wire: B = μ₀I / (2πr).
+- At centre of circular loop: B = μ₀I / (2R).
+- Solenoid: B = μ₀nI (inside); n = turns per unit length.
+
+### Force on charge/current in magnetic field
+- Lorentz force: F = q(v × B).
+- Current element: dF = I dl × B.
+- Moving charge in uniform B → circular motion: r = mv/(qB); T = 2πm/(qB).
+
+### Magnetic moment
+- Current loop: M = IA.
+- Torque: τ = M × B.
+
+### EM induction (Faraday & Lenz)
+- Faraday: emf ε = –dΦ/dt.
+- Lenz: direction of induced emf opposes change in flux.
+- Motional emf: ε = Blv (conductor perpendicular to B and v).
+
+### Self & mutual inductance
+- Self: ε = –L dI/dt; energy: U = ½LI².
+- Mutual: ε₂ = –M dI₁/dt.
+
+### AC basics
+- V = V₀ sin(ωt); I = I₀ sin(ωt ± φ).
+- Impedance (Z): for R only Z = R; for L: ZL = ωL; for C: ZC = 1/(ωC).
+- Series LCR: Z = √[R² + (XL – XC)²].
+- Resonance: XL = XC; Z = R (minimum); current maximum; f₀ = 1/(2π√LC).
+- Power: P = Vrms Irms cosφ; cosφ = power factor.
+
+### Transformer
+- Turns ratio: Vs/Vp = Ns/Np = Ip/Is.
+- Step‑up: Ns > Np; step‑down: Ns < Np.
+- Works only on AC.
+
+---
+
+## 13) Optics (Ray & Wave)
+
+### Reflection & mirrors
+- Mirror formula: 1/f = 1/v + 1/u.
+- Magnification: m = –v/u = hᵢ/hₒ.
+- Sign (Cartesian): u –ve (object left); f –ve (concave: f < 0, convex: f > 0 in same sign rules).
+
+### Refraction & lenses
+- Snell’s law: n₁ sin i = n₂ sin r.
+- Lens formula: 1/f = 1/v – 1/u (according to NCERT sign convention; in real‑is‑positive convention adjust).
+- Lens maker’s formula: 1/f = (n–1)(1/R₁ – 1/R₂).
+- Power: P = 1/f (in metres); unit D (dioptre).
+- Combined lenses: P = P₁ + P₂ (thin lenses in contact).
+
+### Total internal reflection & optical fibre
+- Condition: i > ic; n₁ > n₂.
+- Critical angle: sin ic = n₂/n₁.
+- Optical fibre: TIR + cladding of lower n.
+
+### Prism
+- Deviation δ = i₁ + i₂ – A.
+- Minimum deviation: δm; n = sin[(A+δm)/2] / sin(A/2).
+
+### Wave optics
+- Interference (Young’s double slit):
+  - Fringe width: β = λD/d.
+  - Maxima: path diff = nλ; minima = (2n–1)λ/2.
+- Diffraction: single slit central maxima widest; width ∝ λ/a.
+- Polarization: light with E confined to one plane; Malus’ law I = I₀ cos²θ.
+
+---
+
+## 14) Modern Physics (Atoms, Nuclei, Dual Nature)
+
+### Bohr model (H‑like)
+- Radius: rₙ ∝ n²/Z; Energy: Eₙ ∝ –Z²/n².
+- Rydberg: 1/λ = RZ²(1/n₁² – 1/n₂²).
+- Transition: energy emitted = hf = hc/λ.
+
+### Photoelectric effect
+- Einstein: hf = φ₀ + KEmax; φ₀ = work function.
+- Threshold frequency: f₀ = φ₀/h; below this no emission.
+- Stopping potential: eVs₀ = KEmax.
+
+### de Broglie wavelength
+- λ = h/p = h/(mv); for charged particles: λ = h/√(2mqV).
+
+### Radioactivity
+- Decay law: N = N₀ e^(–λt); A = λN.
+- Half‑life: T½ = ln2/λ ≈ 0.693/λ.
+- Mean life: τ = 1/λ = T½/0.693.
+- α: He nucleus (2p, 2n); β⁻: electron; β⁺: positron; γ: high‑energy photon.
+
+### Mass–energy & binding energy
+- E = mc².
+- Mass defect: Δm = (Zmp + Nmn) – M; binding energy = Δm c².
+- Binding energy per nucleon max near Fe (~56) – most stable.
+
+### X‑rays
+- Produced when fast electrons hit target.
+- Continuous spectrum (bremsstrahlung) + characteristic lines (Kα, Kβ).
+- Moseley’s law: √f ∝ Z.
+
+---
+
+## 15) Semiconductors & Electronics
+
+### Band theory
+- Conductors: overlapping valence/conduction bands.
+- Insulators: large gap.
+- Semiconductors: small gap; Si, Ge.
+
+### Intrinsic & extrinsic
+- Intrinsic: pure Si/Ge; ne = nh.
+- n‑type: pentavalent dopant (P, As); electrons as majority carriers.
+- p‑type: trivalent dopant (B, Al); holes as majority.
+
+### p‑n junction diode
+- Forward bias: conduction; low resistance.
+- Reverse bias: small leakage (saturation current).
+- Breakdown: Zener/avalanche.
+
+### Rectifiers
+- Half‑wave: 1 diode; efficiency ~40.6%.
+- Full‑wave centre‑tap: 2 diodes; efficiency ~81.2%.
+- Full‑wave bridge: 4 diodes; no centre tap needed; efficiency ~81.2%.
+
+### Logic gates
+- AND: output high when all inputs high.
+- OR: output high when any input high.
+- NOT: inverts input.
+- NAND: AND + NOT.
+- NOR: OR + NOT.
+- XOR: output high when inputs differ.
+
+---
+
+##16) Communication Systems (Basics)
+
+### Elements
+- Transducer, transmitter, channel, receiver, transducer (output).
+
+### Modulation types
+- AM (Amplitude): amplitude varies; low BW, noise‑prone.
+- FM (Frequency): frequency varies; higher BW, better quality.
+
+### Terms
+- Bandwidth: range of frequencies.
+- Modulation index: μ = Am/Ac (AM).
+
+---
+
+## 17) Memory Tricks & Mnemonics (Physics)
+
+### Electromagnetic spectrum order (radio → gamma)
+- “Rabbits Mate In Very Unusual X‑ray Gardens”
+- Radio, Microwave, Infrared, Visible, Ultraviolet, X‑rays, Gamma rays. 【turn0search10】【turn0search11】
+
+### SI prefixes (tera to pico)
+- “The Great Mega King Killed Dwarf Man Nano Puppy Picofarad” (Giga, Mega, Kilo, Deci, Milli, Micro, Nano, Pico).
+- Trick: 10¹² T, 10⁹ G, 10⁶ M, 10³ k, 10⁻² d, 10⁻³ m, 10⁻⁶ μ, 10⁻⁹ n, 10⁻¹² p.
+
+### Thermodynamic processes
+- “Pressure Is Temperature’s Almost Valuable Asset” (Isobaric, Isothermal, Isochoric, Adiabatic).
+
+### Colour code of resistors (band colours)
+- “BB ROY of Great Britain Has Very Good Wife”
+- Black 0, Brown 1, Red 2, Orange 3, Yellow 4, Green 5, Blue 6, Violet 7, Grey 8, White 9, Gold 5%, Silver 10%.
+
+### Lens sign
+- “Real Is Positive” (RIP) for focal length in many Indian textbooks’ convention; but in NCERT sign conventions, check directions. Better to memorise one convention and stick to it.
+
+### Optics: action of lenses
+- Convex lens converges; concave diverges.
+- Trick: Convex “Caves Inward”? No. Think “Convex = Converging”. (Similar trick for concave mirrors = converging).
+
+### Right‑hand rule (directions)
+- Fleming’s right‑hand: generator (induced current).
+- Fleming’s left‑hand: motor (force).
+- Right‑hand grip: current → magnetic field around wire.
+
+---
+
+## 18) High‑Yield Formula Clusters (Memorize as Groups)
+
+### Motion & Gravity
+- v = u + at; s = ut + ½at²; v² = u² + 2as.
+- v (orbital) = √(GM/R); ve = √(2GM/R); T² ∝ r³.
+
+### SHM & Waves
+- x = A cos(ωt + φ); v = –Aω sin; a = –Aω² cos.
+- Tpendulum = 2π√(L/g); Tspring = 2π√(m/k).
+- v = fλ; beats = |f1 – f2|.
+
+### Thermodynamics
+- ΔQ = ΔU + ΔW.
+- Cp – Cv = R; PVγ = constant (adiabatic).
+
+### Electrostatics & Capacitors
+- F = kq1q2/r²; E = kQ/r²; V = kQ/r.
+- C = ε₀A/d; U = ½CV²; series: 1/Ceq = Σ1/Ci; parallel: Ceq = ΣCi.
+
+### Current & Circuits
+- V = IR; P = VI = I²R = V²/R.
+- Kirchhoff: ΣI = 0 (junction); ΣV = 0 (loop).
+- Wheatstone balanced: P/Q = R/S.
+
+### Magnetism & EMI
+- Straight wire B = μ₀I/(2πr); circular B = μ₀I/(2R).
+- F = q(v×B); F = I l × B.
+- ε = –dΦ/dt; ε = Blv (motional).
+- AC: Z = √[R² + (XL – XC)²]; P = Vrms Irms cosφ.
+
+### Optics
+- Mirror: 1/f = 1/v + 1/u.
+- Lens: 1/f = 1/v – 1/u (NCERT signs); P = 1/f.
+- Prism: n = sin[(A+δm)/2]/sin(A/2).
+- YDSE: β = λD/d.
+
+### Modern Physics
+- Bohr radius: r ∝ n²/Z; energy: E ∝ –Z²/n².
+- Photoelectric: hf = φ₀ + KEmax.
+- de Broglie: λ = h/p.
+- Decay: N = N₀ e^(–λt); T½ = ln2/λ.
+
+---
+
+## 19) Exam‑Day Tricks for Physics
+
+- Formula recall: When you see a keyword (projectile → immediately write T, H, R formulas; capacitor → write C, U, series/parallel).
+- Units check: If answer has mismatched SI units, it’s wrong.
+- Dimension check: When stuck, plug in M, L, T dimensions to test options.
+- Graph sketching: Recognize slopes (dy/dx) and areas (∫y dx) – NEET loves “what does slope/area represent?”.
