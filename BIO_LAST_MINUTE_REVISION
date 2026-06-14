@@ -1,0 +1,379 @@
+# NEET Biology — Super-Compact Revision Notes + Memory Tricks
+
+
+## 1) Diversity and Classification (Living World, Plant/Animal Kingdom)
+
+### Taxonomic hierarchy
+- Order: Species → Genus → Family → Order → Class → Phylum → Kingdom.
+- Trick: “King Phillip Came Over For Good Soup” (Kingdom, Phylum, Class, Order, Family, Genus, Species).
+
+### Five kingdoms
+- Monera, Protista, Fungi, Plantae, Animalia.
+- Trick: “My Father Put Green Pants On” (Monera, Fungi, Protista, Plantae, Animalia). 【turn1fetch1】
+
+### Plant kingdom evolutionary sequence (cryptogams → phanerogams → classes)
+- Thallophyta → Bryophyta → Pteridophyta → Gymnosperms → Angiosperms → Monocots → Dicots.
+- Trick: “The British People Fight Against Marching Troops” (Thallophyta, Bryophyta, Pteridophyta, Gymnosperms, Angiosperms, Monocots, Dicots). 【turn1fetch0】
+
+### Algae groups (with examples)
+- Chlorophyceae (green): Spirogyra, Volvox, Chlamydomonas.
+- Phaeophyceae (brown): Laminaria, Sargassum, Fucus.
+- Rhodophyceae (red): Polysiphonia, Gelidium, Gracilaria.
+- Trick: “Chlorophyll friends are green; Phaeo lovers are brown; Red roses are red (Rhodo).”
+
+### Bryophyta characteristics
+- Body: thallus (no true roots/stems/leaves).
+- Rhizoids for fixation (not true roots).
+- Dominant gametophyte; sporophyte dependent.
+- Homosporous.
+- Water essential for fertilization (motel number: amphibians of plant kingdom).
+- Examples: Marchantia, Funaria, Sphagnum.
+
+### Pteridophyta vs Gymnosperms vs Angiosperms
+- Pteridophytes: vascular cryptogams; independent sporophyte & gametophyte; homosporous (some heterosporous e.g., Selaginella, Salvinia).
+- Gymnosperms: naked seeds; no fruits; vascular tissues; heterosporous; prothallus (gametophyte) reduced; examples: Pinus, Cycas, Ginkgo.
+- Angiosperms: seeds inside fruits; double fertilization; vessels in xylem (usually); examples: Mango, Wheat.
+
+### Animal phyla (non-chordates) sequence and key traits
+- Porifera → Cnidaria → Platyhelminthes → Nematoda → Annelida → Arthropoda → Mollusca → Echinodermata → Hemichordata → Chordata.
+- Trick: “Porcupines Can Play Nicely And Move Everywhere Around Chicks” (Porifera, Cnidaria/Coelenterata, Platyhelminthes, Nematoda, Annelida, Mollusca, Echinodermata, Arthropoda, Chordata). 【turn1fetch0】
+- Porifera: canal system; ostia, osculum; spicules.
+- Cnidaria: cnidocytes; polyp and medusa; Cnidaria = Coelenterata.
+- Platyhelminthes: triploblastic, acoelomate; flame cells (excretion); parasitic.
+- Nematoda: pseudocoelomate; complete digestive tract; sexual dimorphism.
+- Annelida: true coelom; metameric segmentation; nephridia.
+- Arthropoda: chitinous exoskeleton; jointed appendages; open circulatory system.
+- Mollusca: mantle; radula; muscular foot; visceral mass.
+- Echinodermata: water vascular system; tube feet; pentaradial symmetry adults; larvae bilaterally symmetrical.
+
+### Vertebrate classes (evolution order)
+- Fishes → Amphibians → Reptiles → Birds → Mammals.
+- Trick: FARBM (Fishes, Amphibians, Reptiles, Birds, Mammals). 【turn1fetch0】
+
+---
+
+## 2) Cell: The Unit of Life; Biomolecules; Cell Cycle
+
+### Cell theory (key points)
+- Schleiden & Schwann: all plants/animals composed of cells.
+- Virchow: “Omnis cellula e cellula” (all cells arise from pre-existing cells).
+- Prokaryote: no membrane-bound organelles; nucleoid; 70S ribosomes.
+- Eukaryote: true nucleus; 80S ribosomes (70S in organelles like mitochondria/chloroplast).
+
+### Fluid mosaic model of plasma membrane
+- Phospholipid bilayer + proteins (integral and peripheral) + cholesterol (animal cells) + carbohydrates (glycolipids/glycoproteins).
+- Trick: Think “iceberg on a sea of lipids” (proteins float in lipid bilayer).
+
+### Mitochondria & chloroplast (semi-autonomous)
+- Own DNA & 70S ribosomes; double membrane.
+- Mitochondria: cristae (site: ETS & oxidative phosphorylation); matrix (Krebs cycle).
+- Chloroplast: thylakoids (grana) for light reactions; stroma for Calvin cycle.
+
+### Biomolecules – enzymes
+- Proteinaceous; tertiary/quaternary structure.
+- Prosthetic groups: tightly bound cofactors (e.g., heme in catalase).
+- Coenzymes: organic cofactors (e.g., NAD+, FAD).
+- Inhibitors: competitive (binds active site); non-competitive (binds elsewhere); allosteric.
+- Lock-and-key (induced fit) model.
+
+### Cell cycle phases
+- G1 → S → G2 → M.
+- Interphase = G1 + S + G2 (longest phase).
+- Trick: “GPS My way” (G1, Prophase, S, Metaphase) – actually easier: “IPMAT” for mitosis stages: Interphase, Prophase, Metaphase, Anaphase, Telophase.
+
+### Mitosis vs Meiosis
+- Mitosis: 2 diploid daughter cells; no crossing over; somatic cells.
+- Meiosis: 4 haploid cells; crossing over in prophase I; germ cells.
+- Mitosis stages trick: “I Prefer Meat At Taco Bell” (Interphase, Prophase, Metaphase, Anaphase, Telophase). 【turn1fetch0】
+
+---
+
+## 3) Plant Physiology (Photosynthesis, Respiration, Growth, Transport)
+
+### Photosynthesis – equation and site
+- Equation: 6CO2 + 12H2O → C6H12O6 + 6O2 + 6H2O.
+- Site: Chloroplast; grana (light reaction); stroma (Calvin cycle). 【turn0search13】
+
+### Light reaction
+- PS II (P680) → water splitting (photolysis) releases O2.
+- Electron transport → PS I (P700) → NADPH formation.
+- Photophosphorylation: ATP synthesis via chemiosmosis (Z-scheme). 【turn0search13】
+
+### Calvin cycle (C3 cycle)
+- Phase 1: Carboxylation (RuBisCO fixes CO2 to RuBP → unstable 3PGA).
+- Phase 2: Reduction (ATP + NADPH → G3P).
+- Phase 3: Regeneration of RuBP.
+- First stable product: 3-PGA (3-phosphoglycerate).
+- Number of CO2 to fix 1 glucose = 6; 12 NADPH, 18 ATP needed.
+
+### C4 vs CAM
+- C4 (e.g., maize, sugarcane): Kranz anatomy; bundle sheath cells; CO2 fixed as OAA (oxaloacetate) in mesophyll → malate → bundle sheath; higher temp & light efficiency; no photorespiration.
+- CAM (e.g., pineapple, opuntia): stomata open at night (CO2 fixation to malate); stored in vacuole; used in day for Calvin cycle; succulents/xerophytes.
+
+### Respiration – glycolysis to ETS
+- Glycolysis: cytoplasm; 1 glucose → 2 pyruvate; net 2 ATP + 2 NADH.
+- Link reaction/pyruvate decarboxylation: mitochondrial matrix; pyruvate → acetyl-CoA + CO2 + NADH.
+- Krebs cycle: matrix; 3 NADH, 1 FADH2, 1 ATP per acetyl-CoA; 2 CO2.
+- ETS/Oxidative phosphorylation: inner mitochondrial membrane; O2 final acceptor; water formed; maximum ATP (about 30–32).
+
+### Plant growth regulators (hormones)
+- Auxin, Gibberellin, Cytokinin, Ethylene, Abscisic acid.
+- Trick: “Aunt Gina Can Always Eat” (Auxin, Gibberellin, Cytokinin, Abscisic acid, Ethylene). 【turn1fetch0】
+- Functions (quick hits):
+  - Auxin: apical dominance; cell elongation; rooting (IAA, IBA).
+  - Gibberellin: bolting; seed germination; rosette plant flowering.
+  - Cytokinin: cell division; delay leaf senescence (anti-aging).
+  - Ethylene: fruit ripening; leaf & flower abscission; triple response.
+  - Abscisic acid (ABA): stress hormone; stomatal closure; seed dormancy.
+
+### Seed dormancy and vernalization
+- Dormancy: ABA and inhibitors; hard seed coat; requirements like cold/stratification.
+- Vernalization: low temperature exposure for flowering (e.g., winter varieties of wheat/barley).
+
+---
+
+## 4) Human Physiology (High Weightage)
+
+### Digestion and absorption
+- Mouth: salivary amylase (ptyalin) digestion of starch; lysozyme antibacterial.
+- Stomach: pepsin (protease); gastric lipase; HCl → kills bacteria, activates pepsinogen; mucus protects.
+- Small intestine: pancreatic enzymes (trypsin, chymotrypsin, amylase, lipase); bile salts emulsify fats; brush border enzymes (maltase, lactase, peptidases); site of absorption.
+- Large intestine: water absorption; gut microbiome (vitamin K, B12 synthesis).
+
+### Respiration in humans
+- Breathing rate: 12–16/min; tidal volume ~500 mL.
+- Vital capacity: IRV + TV + ERV.
+- Transport of O2/CO2: O2 mainly as oxyhaemoglobin (HbO2); CO2 as carbaminohaemoglobin, bicarbonate, dissolved.
+- Bohr effect: O2 release favoured in high pCO2, low pH, high temperature.
+
+### Circulatory system
+- Heart chambers: 2 atria, 2 ventricles; left ventricle thickest wall.
+- Conduction system: SA node → AV node → AV bundle → Purkinje fibres (SA node is pacemaker).
+- Heart valves order: “Try Pulling My Aorta” (Tricuspid, Pulmonary, Mitral, Aortic). 【turn1fetch0】
+- Double circulation: pulmonary (heart → lungs → heart) + systemic (heart → body → heart).
+
+### Blood components
+- RBCs: biconcave; anucleate; haemoglobin; EPO (kidney) stimulates RBC formation.
+- WBCs: neutrophils (phagocytosis), lymphocytes (immune), eosinophils (allergy, parasites), basophils (heparin, histamine), monocytes (macrophages).
+- Platelets: cell fragments; clotting.
+
+### Excretory system
+- Nephron functional unit: glomerulus (filtration) + Bowman’s capsule + PCT + loop of Henle + DCT + collecting duct.
+- JGA (juxtaglomerular apparatus): juxtaglomerular cells (renin secretion) + macula densa (Na+ sensing).
+- Counter-current multiplier in loop of Henle (concentrates urine).
+- Hormones: ADH increases water reabsorption; aldosterone increases Na+ reabsorption/K+ excretion; ANF (atrial natriuretic factor) lowers blood pressure.
+
+### Neural control and endocrine system
+- Parts: CNS (brain + spinal cord); PNS (somatic + autonomic).
+- Autonomic: sympathetic (fight/flight) vs parasympathetic (rest/digest).
+- Brain: cerebrum (higher functions), cerebellum (coordination/balance), pons (respiration), medulla (vital centres), hypothalamus (thermoregulation, hunger, thirst, pituitary control).
+- Cranial nerves (12): “Oh Oh Oh To Touch And Feel Very Green Vegetables AH!” (Olfactory, Optic, Oculomotor, Trochlear, Trigeminal, Abducens, Facial, Vestibulocochlear, Glossopharyngeal, Vagus, Accessory, Hypoglossal). 【turn1fetch0】
+
+### Endocrine glands and key hormones
+- Hypothalamus: releasing/inhibiting hormones; oxytocin & ADH made here, stored in posterior pituitary.
+- Pituitary: anterior (GH, prolactin, TSH, ACTH, FSH, LH); posterior (oxytocin, ADH).
+- Thyroid: T3/T4 regulate BMR; calcitonin lowers blood Ca2+.
+- Parathyroid: PTH increases blood Ca2+.
+- Adrenal medulla: adrenaline/epinephrine; cortex: cortisol, aldosterone.
+- Pancreas: islets of Langerhans – α cells (glucagon), β cells (insulin).
+- Gonads: testes (testosterone); ovary (estrogen, progesterone).
+- Pineal: melatonin (sleep–wake cycle); thymus: T cells maturation.
+
+---
+
+## 5) Reproduction in Organisms (Plants & Humans)
+
+### Asexual reproduction
+- Binary fission, budding, fragmentation, spores, vegetative propagation.
+- Vegetative propagation: runners, suckers, tubers, offsets, bulbils.
+
+### Sexual reproduction in flowering plants
+- Stamen: anther (pollen sacs) + filament.
+- Carpel: stigma + style + ovary (ovules).
+- Microsporogenesis: diploid microspore mother cells → haploid microspores → pollen grain.
+- Megasporogenesis: megaspore mother cell → 4 megaspores → 1 functional (8-nucleate embryo sac).
+- Pollination: biotic (insects, birds) and abiotic (wind, water).
+- Double fertilization: one sperm fuses with egg (zygote); another with two polar nuclei (endosperm, PEC).
+- Post-fertilization: seed (embryo + endosperm/seed coat) + fruit.
+
+### Human reproduction
+- Male: testes (spermatogenesis in seminiferous tubules); Leydig cells (androgens); Sertoli cells (nourishment); epididymis, vas deferens, seminal vesicle, prostate, bulbourethral gland.
+- Female: ovary (oogenesis, ovulation); fallopian tube (site of fertilization); uterus (implantation); cervix, vagina.
+- Menstrual cycle: follicular phase (proliferative endometrium), ovulation (~day 14), luteal phase (secretory endometrium); if no implantation → menstruation.
+- Hormones: FSH, LH (pituitary); estrogen, progesterone (ovary); hCG (pregnancy test).
+
+---
+
+## 6) Genetics and Evolution (Molecular Basis + Principles)
+
+### Mendel’s laws
+- Law of Dominance; Law of Segregation; Law of Independent Assortment.
+- Test cross: cross with recessive parent to determine genotype.
+
+### Genetic terms
+- Allele: alternative form of gene.
+- Homozygous: same alleles (AA/aa); heterozygous: different (Aa).
+- Phenotype vs genotype.
+- Dominant vs recessive.
+
+### Chromosomal disorders (human)
+- Down syndrome (trisomy 21).
+- Turner syndrome (45, XO).
+- Klinefelter syndrome (47, XXY).
+- Patau (trisomy 13); Edwards (trisomy 18).
+
+### Molecular basis – DNA vs RNA
+- DNA: deoxyribose; double helix; A–T, G–C; Thymine.
+- RNA: ribose; usually single-stranded; A–U, G–C; Uracil.
+- Purines vs Pyrimidines trick: “Pure As Gold, Cut The Pie” (Purines: Adenine, Guanine; Pyrimidines: Cytosine, Thymine, Uracil). 【turn1fetch0】
+
+### DNA replication
+- Semi-conservative (Meselson–Stahl).
+- Enzymes: helicase (unwinds), DNA polymerase (adds nucleotides 5’→3’), ligase (joins Okazaki fragments), primase (RNA primer).
+
+### Transcription & translation (central dogma)
+- Transcription: DNA → mRNA (in nucleus); RNA polymerase.
+- Translation: mRNA → protein (ribosome); codons; tRNA anticodon.
+- Genetic code: universal, degenerate, non-overlapping, commaless, unambiguous.
+
+### Mutations
+- Point mutation: substitution; frameshift: insertion/deletion.
+- tRNA mutational effect (e.g., sickle cell anemia: Glu → Val in β-globin).
+
+### Evolution basics
+- Hardy–Weinberg: p² + 2pq + q² = 1; conditions: no mutation, no selection, random mating, large population, no migration.
+- Natural selection: Darwin; survival of fittest.
+- Evidence: fossils, homologous organs (same origin, diff function), analogous organs (diff origin, similar function), vestigial organs.
+- Speciation: allopatric (geography) vs sympatric.
+
+---
+
+## 7) Ecology and Environment
+
+### Ecosystem components
+- Abiotic: light, temperature, water, soil.
+- Biotic: producers, consumers, herbivores, carnivores, decomposers.
+
+### Energy flow
+- 10% law: only ~10% energy transferred per trophic level (Lindeman).
+- Pyramid of energy always upright; pyramids of number/biomass can be inverted.
+
+### Ecological pyramids
+- Pyramid of numbers; pyramid of biomass; pyramid of energy.
+- Key point: inverted biomass pyramid in sea (phytoplankton low biomass, zooplankton more).
+
+### Biogeochemical cycles
+- Carbon, nitrogen, phosphorus, water cycles.
+- Nitrogen fixation: Rhizobium (root nodules), Azotobacter (free-living), cyanobacteria (Anabaena); industrial (Haber); lightning.
+- Denitrification: Pseudomonas, Thiobacillus.
+
+### Population ecology
+- Natality, mortality, immigration, emigration.
+- Carrying capacity (K): logistic growth (S-shaped curve); exponential (J-shaped) overshoot.
+
+### Biodiversity and conservation
+- Alpha (local), beta (between habitats), gamma (regional) diversity.
+- Hotspots: Western Ghats, Himalaya, Indo-Burma, Sundaland (high endemism + threat).
+- In situ: national parks, sanctuaries, biosphere reserves; ex situ: zoos, botanical gardens, seed banks.
+
+### Environmental issues
+- Pollution types: air (CO, CO2, SO2, NO2, particulates); water (sewage, industrial effluents, eutrophication); soil (pesticides, fertilizers).
+- Greenhouse gases: CO2, CH4, N2O, CFCs → global warming.
+- Ozone depletion: CFCs release Cl; ozone layer in stratosphere; UV-B increase.
+
+---
+
+## 8) Human Health and Diseases
+
+### Immunity types
+- Innate (non-specific): physical barriers, phagocytes, complement.
+- Acquired (specific): active (infection/vaccine) vs passive (antibodies transferred).
+
+### Types of immunity
+- Active natural: infection.
+- Active artificial: vaccination.
+- Passive natural: maternal antibodies (placenta/colostrum).
+- Passive artificial: antibody injection (antisera).
+
+### Diseases (quick tags)
+- Bacterial: typhoid (Salmonella), pneumonia (Streptococcus), cholera (Vibrio).
+- Viral: HIV (AIDS), rabies, mumps, measles, dengue, chikungunya, COVID-19.
+- Protozoan: malaria (Plasmodium), amoebiasis (Entamoeba), sleeping sickness (Trypanosoma).
+- Fungal: ringworm, athlete’s foot.
+
+### Life cycle of Plasmodium (malaria)
+- Female Anopheles mosquito bites → sporozoites → liver (schizogony) → merozoites → RBCs → gametocytes → mosquito (gametogenesis → fertilization → oocyst → sporozoites).
+
+---
+
+## 9) Biotechnology and Its Applications
+
+### Principles
+- Restriction enzymes (molecular scissors); palindromic sequences; sticky vs blunt ends.
+- Vectors: plasmids, bacteriophages.
+- PCR: Denaturation → Annealing → Extension; Taq polymerase.
+
+### rDNA technology
+- Insert foreign gene into vector → transform host (bacterial/yeast/plant/animal) → expression.
+- Applications: insulin, growth hormone, vaccines (HBV, recombinant), Bt cotton (cry genes).
+
+### Biotechnology in agriculture
+- Bt cotton/brinjal: cry genes code toxins lethal to insect pests.
+- RNAi: silencing specific mRNA (e.g., nematode resistance in tobacco).
+
+### Biotechnology in medicine
+- GEVA: gene therapy, ELISA (diagnostic), recombinant vaccines (DNA/RNA vaccines), monoclonal antibodies.
+
+---
+
+## 10) Microbes in Human Welfare
+
+### Useful microbes
+- Lactobacillus: curd.
+- Saccharomyces cerevisiae: bread, ethanol.
+- Streptococcus: streptokinase (clot buster).
+- Trichoderma: biocontrol agent.
+- Bacillus thuringiensis: biopesticide.
+
+### Sewage treatment
+- Primary: physical settling.
+- Secondary: biological (aerobic bacteria → floc; BOD reduction).
+- Tertiary: chemical disinfection.
+
+### Biogas production
+- Methanogens (Methanobacterium) produce methane in anaerobic sludge digesters.
+
+---
+
+## 11) Common Vitamins, Deficiencies & Mnemonic
+
+Vitamins and deficiencies are often repeated.
+
+- Vitamin A: night blindness, xerophthalmia.
+- B1 (thiamine): beri-beri.
+- B2 (riboflavin): cheilosis, angular stomatitis.
+- B3 (niacin): pellagra (3 D’s: diarrhoea, dermatitis, dementia).
+- B6 (pyridoxine): anaemia, neurological symptoms.
+- B9 (folic acid): megaloblastic anaemia; neural tube defects.
+- B12 (cobalamin): pernicious anaemia; neurological issues.
+- C (ascorbic acid): scurvy (bleeding gums).
+- D: rickets (children), osteomalacia (adults).
+- E: infertility, neurological problems.
+- K: bleeding disorders (clotting).
+
+Trick for fat-soluble vitamins: “ADEK” (All Dead Elephants Kicked? Just remember A, D, E, K are fat-soluble; water-soluble: B-complex + C).
+
+---
+
+## 12) High-Yield Diagrams & Processes to Revise (Quick List)
+
+NEET loves line-based and diagram questions. Ensure you know and can label these from NCERT (sources emphasize diagrams as high-yield): 【turn0search2】【turn0search11】
+
+- Cell: ultrastructure; mitochondria; chloroplast.
+- Plant: T.S. of dicot root/stem; VSAT of leaf; stomata; PVC (phloem vs xylem); various tissues (parenchyma, collenchyma, sclerenchyma).
+- Animal: TS of intestine; nephron; heart (internal); brain (sagittal section); eye (VS); ear.
+- Physiology: diagrams for oxygen–haemoglobin dissociation; nephron loop; hormonal axes.
+- Genetics: DNA replication fork; transcription unit; lac operon (though reduced recently, concepts remain).
+- Ecology: pyramids; biogeochemical cycle sketches.
+
+
