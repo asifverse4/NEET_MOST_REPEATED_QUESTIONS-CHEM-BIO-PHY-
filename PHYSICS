@@ -1,0 +1,369 @@
+
+
+### **Mechanics & Laws of Motion (10 Questions)**
+
+1.  **A body is moving in a circle of radius 'r' with a constant speed 'v'. The work done by the centripetal force in one complete revolution is:**
+    A. $2\pi r mv^2$
+    B. $\frac{mv^2}{r}$
+    C. Zero
+    D. $mvr$
+    **Answer: C**
+
+2.  **Two bodies of masses 2 kg and 4 kg have momenta in the ratio 2:1. What is the ratio of their kinetic energies?**
+    A. 2:1
+    B. 1:2
+    C. 4:1
+    D. 1:4
+    **Answer: B**
+
+3.  **The angle between the two vectors $\vec{A} = \hat{i} + \hat{j}$ and $\vec{B} = \hat{i} - \hat{j}$ is:**
+    A. $0^\circ$
+    B. $45^\circ$
+    C. $90^\circ$
+    D. $180^\circ$
+    **Answer: C**
+
+4.  **A block of mass M is pulled along a horizontal frictionless surface by a rope of mass m. If a force P is applied at the free end of the rope, the force exerted by the rope on the block is:**
+    A. $P$
+    B. $\frac{Pm}{M+m}$
+    C. $\frac{PM}{M+m}$
+    D. $\frac{P}{M+m}$
+    **Answer: C**
+
+5.  **A particle moves with simple harmonic motion in a straight line. In first $\tau$ s, after starting from rest it travels a distance $a$, and in next $\tau$ s it travels $2a$, in same direction, then:**
+    A. Amplitude = $3a$
+    B. Time period = $6\tau$
+    C. Amplitude = $4a$
+    D. Time period = $8\tau$
+    **Answer: C**
+
+6.  **The escape velocity from earth is $11.2$ km/s. If a body is to be projected in a direction making an angle of $45^\circ$ to the vertical, then the escape velocity is:**
+    A. $11.2$ km/s
+    B. $11.2 \times \sqrt{2}$ km/s
+    C. $11.2 / \sqrt{2}$ km/s
+    D. $22.4$ km/s
+    **Answer: A**
+
+7.  **A sphere is rolled down on an inclined plane of inclination $\theta$. What is the acceleration of its center of mass?**
+    A. $\frac{5}{7} g \sin\theta$
+    B. $\frac{3}{5} g \sin\theta$
+    C. $\frac{2}{5} g \sin\theta$
+    D. $\frac{1}{2} g \sin\theta$
+    **Answer: A**
+
+8.  **The moment of inertia of a uniform circular disc about its diameter is I. Its moment of inertia about an axis perpendicular to its plane and passing through its center is:**
+    A. I
+    B. 2I
+    C. $\frac{I}{2}$
+    D. 4I
+    **Answer: B**
+
+9.  **A ball is thrown vertically upward. At the highest point of its flight, the velocity and acceleration of the ball are:**
+    A. Zero, Zero
+    B. Zero, g (downward)
+    C. v (upward), g (downward)
+    D. v (downward), g (upward)
+    **Answer: B**
+
+10. **Angular momentum of a particle is conserved:**
+    A. Always
+    B. Never
+    C. When no external torque acts on it
+    D. When no external force acts on it
+    **Answer: C**
+
+---
+
+### **Thermodynamics & Kinetic Theory (8 Questions)**
+
+11. **In an adiabatic process, which of the following is true?**
+    A. $\Delta Q = 0$
+    B. $\Delta W = 0$
+    C. $\Delta U = 0$
+    D. $\Delta P = 0$
+    **Answer: A**
+
+12. **The efficiency of a Carnot engine working between temperatures $T_1$ (source) and $T_2$ (sink) is:**
+    A. $\frac{T_1 - T_2}{T_1}$
+    B. $\frac{T_2 - T_1}{T_1}$
+    C. $\frac{T_1}{T_2}$
+    D. $\frac{T_2}{T_1}$
+    **Answer: A**
+
+13. **At a given temperature, the specific heat of a gas in an isothermal process is:**
+    A. Zero
+    B. Infinite
+    C. Negative
+    D. Constant but finite
+    **Answer: B**
+
+14. **The average kinetic energy of a gas molecule is:**
+    A. $\frac{3}{2} kT$
+    B. $\frac{1}{2} kT$
+    C. $kT$
+    D. $\frac{5}{2} kT$
+    **Answer: A**
+
+15. **Two rods of length $L_1$ and $L_2$ made of materials with coefficients of linear expansion $\alpha_1$ and $\alpha_2$ respectively have the same difference in length ($\Delta L$) at all temperatures. This is possible if:**
+    A. $L_1 \alpha_1^2 = L_2 \alpha_2^2$
+    B. $L_1 \alpha_1 = L_2 \alpha_2$
+    C. $L_1 \alpha_2 = L_2 \alpha_1$
+    D. $L_1^2 \alpha_1 = L_2^2 \alpha_2$
+    **Answer: B**
+
+16. **If the temperature of the source is increased, the efficiency of the Carnot engine:**
+    A. Increases
+    B. Decreases
+    C. Remains constant
+    D. First increases then decreases
+    **Answer: A**
+
+17. **Which of the following is a state function?**
+    A. Heat
+    B. Work
+    C. Internal Energy
+    D. Pressure
+    **Answer: C**
+
+18. **The rms speed of oxygen molecules at a certain temperature is $v$. If the temperature is doubled, the rms speed becomes:**
+    A. $v$
+    B. $\sqrt{2}v$
+    C. $2v$
+    D. $4v$
+    **Answer: B**
+
+---
+
+### **Electrodynamics (Current Electricity, EMI, AC) (12 Questions)**
+
+19. **Kirchhoff's second law is based on the law of conservation of:**
+    A. Charge
+    B. Energy
+    C. Mass
+    D. Momentum
+    **Answer: B**
+
+20. **The resistance of a wire is R. If it is stretched to double its length, the new resistance will be:**
+    A. R
+    B. 2R
+    C. 4R
+    D. R/4
+    **Answer: C**
+
+21. **A galvanometer can be converted into an ammeter by connecting:**
+    A. A low resistance in parallel
+    B. A high resistance in parallel
+    C. A low resistance in series
+    D. A high resistance in series
+    **Answer: A**
+
+22. **The SI unit of electric potential is:**
+    A. Coulomb
+    B. Joule
+    C. Volt
+    D. Ampere
+    **Answer: C**
+
+23. **A charged particle enters a uniform magnetic field perpendicular to its direction. Its path in the field will be:**
+    A. Straight line
+    B. Circle
+    C. Ellipse
+    D. Parabola
+    **Answer: B**
+
+24. **The self-inductance of a solenoid depends on:**
+    A. Only the current
+    B. Only the number of turns
+    C. Only the length
+    D. Geometry and permeability of core
+    **Answer: D**
+
+25. **The power factor of a purely resistive AC circuit is:**
+    A. 0
+    B. 0.5
+    C. 1
+    D. Infinite
+    **Answer: C**
+
+26. **In a transformer, the number of turns in the primary coil is 100 and that in the secondary coil is 1000. If the input voltage is 200 V, the output voltage is:**
+    A. 20 V
+    B. 2000 V
+    C. 200 V
+    D. 20,000 V
+    **Answer: B**
+
+27. **Lenz's law is a consequence of the law of conservation of:**
+    A. Charge
+    B. Mass
+    C. Energy
+    D. Momentum
+    **Answer: C**
+
+28. **Two bulbs of 100 W and 200 W rated at 220 V are connected in series to a 220 V supply. The power consumed will be:**
+    A. 33.3 W
+    B. 66.6 W
+    C. 100 W
+    D. 150 W
+    **Answer: B**
+
+29. **The direction of the magnetic field around a straight current-carrying conductor is given by:**
+    A. Fleming's left-hand rule
+    B. Fleming's right-hand rule
+    C. Right-hand thumb rule
+    D. Ampere's swimming rule
+    **Answer: C**
+
+30. **The principle of an electric generator is based on:**
+    A. Heating effect of current
+    B. Chemical effect of current
+    C. Electromagnetic induction
+    D. Magnetic effect of current
+    **Answer: C**
+
+---
+
+### **Optics (Ray & Wave) (8 Questions)**
+
+31. **The phenomenon of total internal reflection occurs when light travels from:**
+    A. Denser to rarer medium
+    B. Rarer to denser medium
+    C. Any medium to vacuum
+    D. Denser to denser medium
+    **Answer: A**
+
+32. **The power of a lens is -2D. Its focal length is:**
+    A. +50 cm
+    B. -50 cm
+    C. +20 cm
+    D. -20 cm
+    **Answer: B**
+
+33. **In Young's double slit experiment, the fringe width is $\beta$. If the entire arrangement is immersed in a liquid of refractive index $n$, the new fringe width will be:**
+    A. $n\beta$
+    B. $\beta/n$
+    C. $\beta$
+    D. $n^2\beta$
+    **Answer: B**
+
+34. **The focal length of a convex lens of refractive index 1.5 is 20 cm in air. If it is immersed in water (refractive index 1.33), its focal length will:**
+    A. Increase
+    B. Decrease
+    C. Remain same
+    D. Become zero
+    **Answer: A**
+
+35. **The image formed by a plane mirror is:**
+    A. Real and erect
+    B. Real and inverted
+    C. Virtual and erect
+    D. Virtual and inverted
+    **Answer: C**
+
+36. **Which of the following is used to correct myopia (short-sightedness)?**
+    A. Convex lens
+    B. Concave lens
+    C. Cylindrical lens
+    D. Bifocal lens
+    **Answer: B**
+
+37. **Huygens' principle is used to:**
+    A. Determine the speed of light
+    B. Explain reflection and refraction
+    C. Find the position of image
+    D. Study polarization
+    **Answer: B**
+
+38. **The resolving power of a telescope increases with:**
+    A. Decrease in wavelength of light
+    B. Increase in wavelength of light
+    C. Decrease in diameter of objective
+    D. Decrease in focal length
+    **Answer: A**
+
+---
+
+### **Modern Physics (Atoms, Nuclei, Dual Nature) (12 Questions)**
+
+39. **The energy of an electron in the nth Bohr orbit of a hydrogen atom is proportional to:**
+    A. $n^2$
+    B. $1/n^2$
+    C. $n$
+    D. $1/n$
+    **Answer: B**
+
+40. **The phenomenon of photoelectric effect was discovered by:**
+    A. Einstein
+    B. Hertz
+    C. Hallwachs
+    D. Lenard
+    **Answer: B**
+
+41. **In the photoelectric effect, the stopping potential depends on:**
+    A. Intensity of light
+    B. Frequency of light
+    C. Both intensity and frequency
+    D. Neither intensity nor frequency
+    **Answer: B**
+
+42. **The de Broglie wavelength of a particle is associated with its:**
+    A. Charge
+    B. Mass
+    C. Momentum
+    D. Velocity
+    **Answer: C**
+
+43. **Which of the following has the highest penetrating power?**
+    A. Alpha rays
+    B. Beta rays
+    C. Gamma rays
+    D. X-rays
+    **Answer: C**
+
+44. **Half-life of a radioactive element is 30 days. The time taken for $3/4$th of the sample to decay is:**
+    A. 30 days
+    B. 45 days
+    C. 60 days
+    D. 90 days
+    **Answer: C**
+
+45. **The mass defect in a nuclear reaction is primarily converted into:**
+    A. Kinetic energy
+    B. Potential energy
+    C. Heat energy
+    D. Light energy
+    **Answer: A**
+
+46. **Isotopes have the same number of:**
+    A. Protons
+    B. Neutrons
+    C. Nucleons
+    D. Electrons
+    **Answer: A** (They also have the same number of electrons, but the defining feature is protons). *Correction: The best specific answer defining the isotopes is Protons.*
+
+47. **The binding energy per nucleon is maximum for:**
+    A. Light nuclei
+    B. Heavy nuclei
+    C. Medium mass nuclei (like Fe)
+    D. Hydrogen
+    **Answer: C**
+
+48. **Davisson-Germer experiment proved the:**
+    A. Wave nature of electrons
+    B. Particle nature of light
+    C. Wave nature of light
+    D. Particle nature of electrons
+    **Answer: A**
+
+49. **X-rays are produced when:**
+    A. Cathode rays hit the target
+    B. Anode rays hit the target
+    C. Gamma rays hit the target
+    D. Electrons jump to higher energy levels
+    **Answer: A**
+
+50. **The energy equivalent of 1 gram of mass is:**
+    A. $9 \times 10^{13}$ J
+    B. $9 \times 10^{16}$ J
+    C. $9 \times 10^{10}$ J
+    D. $9 \times 10^7$ J
+    **Answer: A**
